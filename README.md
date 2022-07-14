@@ -21,3 +21,7 @@ datapath alu control unit single-cycle multi-cycle
 pipeline data hazard control hazard NOP stall forwarding 
 
 cache direct-mapped set associative tag index offset LRU FIFO write-back write-through compulsory miss capacity miss conflict miss
+
+SIMD
+
+virtual memory physical memory page table PTE TLB page fault 
